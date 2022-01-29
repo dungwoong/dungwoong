@@ -26,7 +26,7 @@ My name is Kevin Wang and I'm a Data Science student at the University of Toront
 
 ## :computer: Repositories
 
-<a href="https://github.com/5ause/league-scrapev2">
+<a href="https://github.com/dungwoong/league-scrapev2/blob/main/writeup/Riot%20Games%20Writeup.pdf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5ause&repo=league-scrapev2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
