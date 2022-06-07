@@ -32,7 +32,7 @@ My name is Kevin Wang and I'm a Data Science student at the University of Toront
 
 
 <a href="https://github.com/dungwoong/NN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dungwoong&repo=NNedworthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dungwoong&repo=NN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
