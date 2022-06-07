@@ -3,7 +3,7 @@
 <!-- TEMPLATE FROM https://github.com/MartinHeinz/MartinHeinz -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, everyone!
 
 My name is Kevin Wang and I'm a Data Science student at the University of Toronto. I'm currently living in Ontario, Canada. You can find me on [![LinkedIn][3.2]][3].
 
@@ -31,8 +31,8 @@ My name is Kevin Wang and I'm a Data Science student at the University of Toront
 </a>
 
 
-<a href="https://github.com/dungwoong/edworthy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dungwoong&repo=edworthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/dungwoong/NN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dungwoong&repo=NNedworthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
