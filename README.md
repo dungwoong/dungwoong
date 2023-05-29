@@ -1,1 +1,5 @@
-My brain is running with torch.no_grad()
+Neural net enjoyer.
+
+Currently looking to build a strong foundation in math, stats and computer science. 
+
+Looking to build big things after.
