@@ -6,4 +6,4 @@ Data science is a multifaceted discipline, and I'm still trying to figure out my
 - Machine Learning: PyTorch, LangChain, scikit-learn
 - Project Management: From internship experience
 
-Go to [my website](https://dungwoong.github.io/) for an extended bio!
+Go to [my website](https://dungwoong.vercel.app/) for an extended bio!
